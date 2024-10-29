@@ -1,0 +1,16 @@
+tr.azasbwp-separator {
+    border-bottom: 1px solid #ccc;
+}
+tr.azasbwp-separator label {
+    font-weight: bold;
+    line-height: 1;
+    font-size: 16px;
+}
+tr.azasbwp-separator td{
+    display: none;
+}
+
+.azasbwp_btn_pro{
+	font-weight: bold;
+	color: Red;
+}

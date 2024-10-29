@@ -1,0 +1,105 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AZ Advanced Scrollbar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-26 12:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. Name of the plugin
+msgid "AZ Advanced Scrollbar"
+msgstr ""
+
+#. Author of the plugin
+msgid "AZ Plugins"
+msgstr ""
+
+#: admin/plugin-options.php:29 admin/plugin-options.php:36
+msgid "AZ Scrollbar Settings"
+msgstr ""
+
+#: admin/plugin-options.php:106
+msgid "Bar Auto Hide"
+msgstr ""
+
+#: admin/plugin-options.php:85
+msgid "Bar Border Radius"
+msgstr ""
+
+#: admin/plugin-options.php:92
+msgid "Bar Border Style"
+msgstr ""
+
+#: admin/plugin-options.php:62
+msgid "Bar Color"
+msgstr ""
+
+#: admin/plugin-options.php:99
+msgid "Bar Scroll Speed"
+msgstr ""
+
+#: admin/plugin-options.php:78
+msgid "Bar Width"
+msgstr ""
+
+#: admin/plugin-options.php:54
+msgid "Enable Custom Scrollbar"
+msgstr ""
+
+#: admin/plugin-options.php:79
+msgid "Example: 12px"
+msgstr ""
+
+#: admin/plugin-options.php:86
+msgid "Example: 5px"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://azplugins.com/azp-scroller/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://azplugins.com"
+msgstr ""
+
+#: admin/plugin-options.php:110
+msgid "No"
+msgstr ""
+
+#: admin/plugin-options.php:70
+msgid "Rails Background Color"
+msgstr ""
+
+#: admin/plugin-options.php:93
+msgid "Scrollbar border style here. Example: 2px solid #000 or 1px solid red."
+msgstr ""
+
+#: plugin-main.php:117
+msgid "Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin will enable custom scrollbar in your wordpress site. You can "
+"change color & other setting from <a href=\"options-general.php?"
+"page=azasbwp_options\">Option Panel</a>"
+msgstr ""
+
+#: admin/plugin-options.php:100
+msgid ""
+"Write scrollbar speed here. Example: 50. Less vlaue increase speed & grater "
+"value decrease speed."
+msgstr ""
+
+#: admin/plugin-options.php:109
+msgid "Yes"
+msgstr ""
